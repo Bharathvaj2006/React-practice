@@ -1,0 +1,36 @@
+body {
+  background-color: rgba(64, 61, 61, 0.678);
+}
+
+.card {
+  text-align: center;
+  padding: 10px 10px;
+  width: 250px;
+  background-color: bisque;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin: 10px;
+}
+
+.pr {
+  white-space: pre;
+}
+
+.card img {
+  width: 200px;
+}
+
+.Postcard {
+  text-align: center;
+  padding: 10px 10px;
+  margin: 10px;
+  width: 250px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family: sans-serif;
+  display: inline-block;
+
+}

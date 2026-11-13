@@ -1,0 +1,28 @@
+{
+    "post": [
+        {
+            "id": "1",
+            "title": "English",
+            "marks": "72",
+            "outOff": "100"
+        },
+        {
+            "id": "2",
+            "title": "Maths",
+            "marks": "84",
+            "outOff": "100"
+        },
+        {
+            "id": "3",
+            "title": "Physics",
+            "marks": "88",
+            "outOff": "100"
+        },
+        {
+            "id": "4",
+            "title": "Chemistry",
+            "marks": "76",
+            "outOff": "100"
+        }
+    ]
+}
